@@ -1,0 +1,28 @@
+Setting up Sublime Text 3
+========
+After downloading [Sublime Text 3](http://sublimetext.com/3):
+
+1. First, install [Package Control](http://packagecontro.io).
+	1. Follow the instructions for either the *Simple* or *Manual* install.
+
+2. After installing Package Control, bring up the command bar in Sublime Text by hitting the following keys <kbd>CMD</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> and type in “Install”:
+
+![Step 1](imgs/step1.png)
+
+this should auto sort to the option “Package Control: Install Package”
+
+
+3. Hit ENTER - a new omnibar should appear
+
+![Step 2](imgs/step2.png)
+
+4. Type in “Emmet” and hit enter. Ta-Da! You’ve installed Emmet
+
+Go back up to #2 and then the workflow is the same for the other add-ons, called “packages” for Sublime Text.
+The other packages you need to install are:
+
+1. HTML5
+2. CSS3
+3. ColorPicker 
+
+###If you have any questions about it, [please let me know](mailto:alexmyers@creighton.edu).
